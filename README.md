@@ -128,9 +128,12 @@
   ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;  
 
-<br>
 
-<br>
+
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=vedan1&count_private=true&show_icons=true&theme=radical"><img height='200px' width='300px' align="right | center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedan1&show_icons=true&theme=radical">
+  
+  <br>
+  
 
 ---
 
