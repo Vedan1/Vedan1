@@ -15,7 +15,9 @@
 
 <h1 align="center"> About Me </h1>
 
-<iframe src="https://giphy.com/embed/NFA61GS9qKZ68" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reading-dot-strategies-NFA61GS9qKZ68">via GIPHY</a></p>
+<img align="right" height='200px' alt="GIF" src="https://giphy.com/gifs/reading-dot-strategies-NFA61GS9qKZ68" />
+  
+<!--   <iframe src="https://giphy.com/embed/NFA61GS9qKZ68" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reading-dot-strategies-NFA61GS9qKZ68">via GIPHY</a></p> -->
 - 🔭 I’m currently working on **Vulneribility Scanner**
 
 - 🌱 I’m currently learning **Python Modules ;_;**
