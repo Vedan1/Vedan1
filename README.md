@@ -24,11 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [**My Repos**](https://github.com/vedan1?tab=repositories)
 
-- 💻 My current BEST project is [**ARP Spoofer**](https://github.com/vedan1/arpspoofer)
-
-- 💬 Ask me about **Cybersecurity**
-
-- 📫 How to reach me **vedantpingale1@gmail.com**
+- 📫 reach me at **vedantpingale1@gmail.com**
 
 <!-- - ⚡ Fun fact **I want to lean Networking** -->
 
