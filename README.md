@@ -80,6 +80,7 @@
 |`M`| | | | | | | | | | |
 
 --- -->
+  ---
 
 <h1 align="center"> Languages and Tools </h1>
 <!-- 
@@ -105,7 +106,6 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
 </p> -->
-  
 ### Programming Languages :
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)&nbsp;
