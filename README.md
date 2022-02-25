@@ -145,8 +145,3 @@
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=069
 
-[![PayPal][pay-shield]][pay-url]
-  
-[pay-url]: https://www.paypal.me/prajwalmalicybergod
- 
-[pay-shield]: https://img.shields.io/badge/-PayPal-black.svg?style=for-the-badge&logo=paypal&colorB=037
