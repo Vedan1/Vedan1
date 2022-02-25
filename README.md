@@ -132,7 +132,6 @@
 
 <img height='200px' src="https://github-readme-stats.vercel.app/api?username=vedan1&count_private=true&show_icons=true&theme=radical"><img height='200px' width='300px' align="right | center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedan1&show_icons=true&theme=radical">
   
-  <br>
   
 
 ---
