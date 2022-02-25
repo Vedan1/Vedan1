@@ -34,7 +34,7 @@
 
 - 📚 Currently pursuing **Bachelors of Computer Engineering**
 
----
+
 <!-- 
 <h1 align="center"> 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h1>
 
@@ -62,7 +62,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=prajwalmali&theme=react-dark&hide_border=true">
 </p>
  -->
----
+
 
 <!-- |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
