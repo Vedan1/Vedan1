@@ -15,8 +15,7 @@
 
 <h1 align="center"> About Me </h1>
 
-<img align="right" height='200px' alt="GIF" src="https://media3.giphy.com/media/115BJle6N2Av0A/200w.webp?cid=ecf05e476ee2eppr5h22932iixxzms1dwwnvp7qq3m71nxvh&rid=200w.webp&ct=g" />
-
+<iframe src="https://giphy.com/embed/NFA61GS9qKZ68" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reading-dot-strategies-NFA61GS9qKZ68">via GIPHY</a></p>
 - 🔭 I’m currently working on **Vulneribility Scanner**
 
 - 🌱 I’m currently learning **Python Modules ;_;**
@@ -90,7 +89,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank">   
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
-<a href="https://d3js.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> 
 
 <a href="https://www.w3.org/html/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 
