@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmali&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="prajwalmali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedan1&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="vedan1" /> </p>
 
 <!--
 
