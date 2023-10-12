@@ -9,17 +9,17 @@
 <img align="right" height='200px' alt="GIF" src="https://media3.giphy.com/media/NFA61GS9qKZ68/giphy.gif?cid=ecf05e4782eo172z71dhablnfeyjwq2mip3kx9f89c4pxf27&rid=giphy.gif&ct=g" />
   
 <!--   <iframe src="https://giphy.com/embed/NFA61GS9qKZ68" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reading-dot-strategies-NFA61GS9qKZ68">via GIPHY</a></p> -->
-- 🔭 I’m currently working on **Vulneribility Scanner**
+- 🔭 I’m currently on **CDAC Learning Journey**
 
-- 🌱 I’m currently learning **Python Modules ;_;**
+- 🌱 I’m currently learning **Core Java **
 
 - 👨‍💻 All of my projects are available at [**My Repos**](https://github.com/vedan1?tab=repositories)
 
 - 📫 reach me at **vedantpingale1@gmail.com**
 
-<!-- - ⚡ Fun fact **I want to lean Networking** -->
+<!-- - ⚡ Fun fact **I can design Too** -->
 
-- 📚 Currently pursuing **Bachelors of Computer Engineering**
+- 📚 Currently pursuing **Post Graduate Deploma in Advanced Computing - CDAC ACTS**
 
 
 <!-- 
